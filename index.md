@@ -21,7 +21,7 @@ Hello, I’m Hemanta Baruah, currently pursuing my PhD from the Centre for Lingu
 
 # Research
 
-%In natural language processing (NLP), event extraction aims at detecting event instance(s) in texts and identifying the event type together with %its participants and attributes, if existing. The obtained structured representations of events can further be used in diverse tasks, such as to %expand existing knowledge base, to monitor social events, and so on.
+<!-- In natural language processing (NLP), event extraction aims at detecting event instance(s) in texts and identifying the event type together with its participants and attributes, if existing. The obtained structured representations of events can further be used in diverse tasks, such as to expand existing knowledge base, to monitor social events, and so on. -->
 
 Within the dynamic field of Natural Language Processing (NLP), my research delves into the intricate task of "Back Transliteration of Noisy Romanized Social Media Text in Assamese." This challenging problem seeks innovative solutions to accurately convert Assamese content from its often noisy Romanized representations on various social media platforms. By addressing this transliteration challenge, the goal is to significantly improve language representation and usability, particularly in the context of diverse digital interactions. 
 
