@@ -15,7 +15,7 @@ _Email: hemanta.b@iitg.ac.in_
 Hello, I’m Hemanta Baruah, currently pursuing my PhD from the Centre for Linguistic Science and Technology, IIT Guwahati. My research topic is "Back Transliteration of Noisy Romanized Social Media Text in Assamese". My thesis supervisors are Prof. Sanasam Ranbir Singh and Prof. Priyankoo Sarmah.    
 
 # Education
-- Ph.D., CLST | Indian Institue of Technology Guwahati, Assam, India 							       		
+- Ph.D, CLST | Indian Institue of Technology Guwahati, Assam, India 							       		
 - M.Tech, Computer Science & Engineering	| National Institute of Technology, Silchar, Assam, India 			        	
 - B.E, Computer Science & Engineering | Jorhat Engineering College, Jorhat, Assam, India
 
