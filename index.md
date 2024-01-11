@@ -15,9 +15,9 @@ _Email: hemanta.b@iitg.ac.in_
 Hello, I’m Hemanta Baruah, currently pursuing my PhD from the Centre for Linguistic Science and Technology, IIT Guwahati. My research topic is "Back Transliteration of Noisy Romanized Social Media Text in Assamese". My thesis supervisors are Prof. Sanasam Ranbir Singh and Prof. Priyankoo Sarmah.    
 
 # Education
-- Ph.D., CLST | Indian Institue of Technology Guwahati 							       		
-- M.Tech, Computer Science & Engineering	| National Institute of Technology, Silchar, Assam 			        		
-- B.E, Computer Science & Engineering | Jorhat Engineering College, Jorhat, Assam 
+- Ph.D., CLST | Indian Institue of Technology Guwahati, Assam, India 							       		
+- M.Tech, Computer Science & Engineering	| National Institute of Technology, Silchar, Assam, India 			        	
+- B.E, Computer Science & Engineering | Jorhat Engineering College, Jorhat, Assam, India
 
 # Research
 
@@ -27,7 +27,7 @@ Within the dynamic field of Natural Language Processing (NLP), my research delve
 
 
 # Publication
-1. Hemanta Baruah, Sanasam Ranbir Singh, and Priyankoo Sarmah. 2024. Transliteration Characteristics in Romanized Assamese Language Social Media Text and Machine Transliteration. ACM Trans. Asian Low-Resour. Lang. Inf. Process. Just Accepted (January 2024). <a href="https://doi.org/10.1145/3639565"><u>link</u></a>
+1. Hemanta Baruah, Sanasam Ranbir Singh, and Priyankoo Sarmah. 2024. Transliteration Characteristics in Romanized Assamese Language Social Media Text and Machine Transliteration. ACM Trans. Asian Low-Resour. Lang. Inf. Process. Just Accepted (January 2024). <a href="https://doi.org/10.1145/3639565" target="_blank"><u>link</u></a>
 2. Hemanta Baruah, Sanasam Ranbir Singh, and Priyankoo Sarmah, "Assamese Back Transliteration - An Emperical Study Over Canonical and Non-canonical Datasets", Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation.
 
 # Contact
