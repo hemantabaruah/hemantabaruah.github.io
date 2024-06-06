@@ -30,8 +30,7 @@ Within the dynamic field of Natural Language Processing (NLP), my research delve
 
 1. Hemanta Baruah, Sanasam Ranbir Singh, and Priyankoo Sarmah. 2024. Transliteration Characteristics in Romanized Assamese Language Social Media Text and Machine Transliteration. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 23, 2, Article 33 (February 2024), 36 pages. <a href="https://doi.org/10.1145/3639565" target="_blank"><u>link</u></a>
 2. Hemanta Baruah, Sanasam Ranbir Singh, and Priyankoo Sarmah. 2023. Assamese Back Transliteration - An Empirical Study Over Canonical and Non-canonical Datasets. In Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation, pages 801–808, Hong Kong, China. Association for Computational Linguistics. <a href="https://aclanthology.org/2023.paclic-1.80" target="_blank"><u>link</u></a>
-3. Hemanta Baruah, Sanasam Ranbir Singh, and Priyankoo Sarmah. 2024. AssameseBackTranslit: Dataset for Back Transliteration in Romanized Assamese Language Social Media Text. Just accepted to be appeared in the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024 main conference) to be held in Torino, Italy from 20-25 May 2024.
-
+3. Hemanta Baruah, Sanasam Ranbir Singh, and Priyankoo Sarmah. 2024. AssameseBackTranslit: Back Transliteration of Romanized Assamese Social Media Text. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 1627–1637, Torino, Italia. ELRA and ICCL. <a href="https://aclanthology.org/2024.lrec-main.143" target="_blank"><u>link</u></a>
 # Contact
 
 Address: CLST, 3rd floor, Central Library Building,
